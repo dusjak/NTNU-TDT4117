@@ -1,0 +1,61 @@
+[3.5 - First 3 LSI topics]
+(0, '0.146*"labour" + 0.137*"price" + 0.127*"produc" + 0.127*"employ" + 0.121*"capit" + 0.121*"tax" + 0.121*"countri" + 0.119*"trade" + 0.118*"hi" + 0.115*"land"')
+(1, '0.260*"rent" + 0.225*"labour" + -0.213*"silver" + 0.210*"land" + -0.197*"gold" + 0.176*"profit" + 0.168*"stock" + 0.160*"employ" + -0.156*"coin" + 0.153*"capit"')
+(2, '-0.350*"price" + -0.227*"silver" + 0.213*"trade" + -0.198*"quantiti" + 0.170*"coloni" + -0.168*"labour" + -0.154*"valu" + -0.149*"gold" + 0.132*"capit" + -0.131*"corn"')
+
+[4.2 - TF_IDF Weights]
+index 806 | word: money | weight: 0.31356976854565205
+index 1125 | word: function | weight: 0.9495651637745701
+
+[4.3 - Top 3 Relevant Documents
+[Document 676]
+The general stock of any country or society is the same with that of
+all its inhabitants or members; and, therefore, naturally divides itself
+into the same three portions, each of which has a distinct function or
+office.
+
+[Document 987]
+That wealth consists in money, or in gold and silver, is a popular
+notion which naturally arises from the double function of money, as the
+instrument of commerce, and as the measure of value. In consequence of
+its being the instrument of commerce, when we have money we can more
+readily obtain whatever else we have occasion for, than by means of any
+
+[Document 811]
+Whatever part of his stock a man employs as a capital, he always expects
+it to be replaced to him with a profit. He employs it, therefore,
+in maintaining productive hands only; and after having served in the
+function of a capital to him, it constitutes a revenue to them. Whenever
+he employs any part of it in maintaining unproductive hands of any kind,
+
+[4.4.1 - Top 3 Topics with the most Significant Weights]
+[Topic 4]
+(4, '-0.260*"bank" + 0.219*"price" + -0.213*"circul" + -0.180*"money" + -0.177*"capit" + 0.171*"corn" + -0.170*"gold" + 0.161*"export" + 0.160*"import" + 0.137*"bounti"')
+
+[Topic 12]
+(12, '0.369*"bank" + -0.194*"coin" + 0.180*"money" + 0.160*"tax" + 0.158*"commod" + -0.154*"profit" + -0.150*"silver" + 0.148*"paper" + -0.133*"gold" + -0.125*"shill"')
+
+[Topic 63]
+(63, '0.162*"monopoli" + -0.158*"money" + 0.150*"interest" + 0.138*"afford" + -0.133*"trade" + 0.131*"improv" + -0.120*"deriv" + -0.117*"product" + -0.115*"assess" + -0.105*"0"')
+
+[4.4.2 - Top 3 Most Relevant Paragraphs]
+[Document 987]
+That wealth consists in money, or in gold and silver, is a popular
+notion which naturally arises from the double function of money, as the
+instrument of commerce, and as the measure of value. In consequence of
+its being the instrument of commerce, when we have money we can more
+readily obtain whatever else we have occasion for, than by means of any
+
+[Document 1002]
+No complaint, however, is more common than that of a scarcity of money.
+Money, like wine, must always be scarce with those who have neither
+wherewithal to buy it, nor credit to borrow it. Those who have either,
+will seldom be in want either of the money, or of the wine which they
+have occasion for. This complaint, however, of the scarcity of money, is
+
+[Document 714]
+When, by any particular sum of money, we mean not only to express the
+amount of the metal pieces of which it is composed, but to include in
+its signification some obscure reference to the goods which can be
+had in exchange for them, the wealth or revenue which it in this case
+denotes, is equal only to one of the two values which are thus intimated
